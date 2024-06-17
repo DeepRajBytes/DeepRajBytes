@@ -33,7 +33,7 @@ I'm a passionate software engineer based in Ahmedabad, India. I have a diverse s
 ---
 
 ### 📫 How to reach me ...
-- Email: deepraj@example.com
+- Email: dprjchouhan@gmail.com
 - LinkedIn: [Deepraj Chouhan](https://www.linkedin.com/in/deepraj-chouhan-271399204)
 - GitHub: [@DeepRajBytes](https://github.com/DeepRajBytes)
 
